@@ -1,8 +1,8 @@
 {
-    "name": "tagesjump/langcorrect",
+    "name": "tagesjump/lib-langcorrect",
     "description": "convert text to correct language. Repository with Composer",
     "keywords": ["langcorrect"],
-    "homepage": "https://github.com/AlexandrDanilov/langcorrect",
+    "homepage": "https://github.com/AlexandrDanilov/lib-langcorrect",
     "license": "MIT",
     "authors": [
         {
