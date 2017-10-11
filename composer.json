@@ -1,0 +1,21 @@
+{
+    "name": "tagesjump/langcorrect",
+    "description": "convert text to correct language",
+    "keywords": ["langcorrect"],
+    "homepage": "https://github.com/AlexandrDanilov/textcorrect",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nasibullin Rinat",
+            "homepage": "http://code.google.com/p/php-lang-correct/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+		"LangCorrect\\": ""
+        }
+    }
+}
